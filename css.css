@@ -261,3 +261,6 @@ textarea {
 #xfdisplay-dashboard {
     line-height: 95px;
 }
+#xfdisplay-dashboard .progress-bar {
+    display: none;
+}
