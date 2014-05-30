@@ -269,6 +269,9 @@ textarea {
 #xfdisplay-dashboard .dashboard > a > div  {
    padding: 20px 20px 0 20px;
 }
+#xfdisplay-dashboard .dashboard > a > div > div:first-child  {
+   padding-top: 35px;
+}
 #xfdisplay-dashboard .progress-bar {
-    margin-top: 28px;
+    margin-top: 22px;
 }
