@@ -258,9 +258,17 @@ textarea {
 #search-wrap #searchform #search-box {
     width: 33%;
 }
-#xfdisplay-dashboard {
+#xfdisplay-dashboard span u {
     line-height: 95px;
+    padding-bottom: 20px;
+    display: block;
+}
+#xfdisplay-dashboard .fadeHiddenText {
+    line-height: 55px;
+}
+#xfdisplay-dashboard .dashboard > a > div  {
+   padding: 20px 20px 0 20px;
 }
 #xfdisplay-dashboard .progress-bar {
-    display: none;
+    margin-top: 28px;
 }
