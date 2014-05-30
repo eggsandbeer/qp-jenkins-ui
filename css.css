@@ -67,7 +67,7 @@ a.model-link.inside {
 }
 /* Rackspace logo */
 #quartzy-logo {
-    background: url("https://d2zruwytl6b6e6.cloudfront.net/images/homepage_images/logo.png") no-repeat scroll left center transparent;
+    background: url("https://raw.githubusercontent.com/eggsandbeer/qp-jenkins-ui/master/qp_logo-login.png") no-repeat scroll left center transparent;
     display: block;
     height: 70px;
 }
