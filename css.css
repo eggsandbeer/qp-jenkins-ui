@@ -113,7 +113,7 @@ a.model-link.inside {
 #projectstatus td:first-child {
     border-left: 1px solid #E6E6E6;
     border-right: 1px solid #E6E6E6;
-    background-color: #CCCCCC !important;
+    background-color: #FDC142 !important;
 }
 /* Hide standard Jenkins project status "ball" graphics in project table */
 #projectstatus td:first-child img {
