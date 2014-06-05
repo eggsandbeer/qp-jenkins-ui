@@ -259,15 +259,17 @@ textarea {
     width: 33%;
 }
 #xfdisplay-dashboard span u {
-    line-height: 95px;
-    padding-bottom: 20px;
+    line-height: 150%;
+    /*padding-bottom: 20px;*/
     display: block;
 }
 #xfdisplay-dashboard .fadeHiddenText {
-    line-height: 55px;
+    line-height: 150%;
 }
 #xfdisplay-dashboard .dashboard > a > div  {
-   padding: 20px 20px 0 20px;
+   padding: 0 !important;
+   margin: 1% 0.5% 0 0.5% !important;
+   width: 49% !important;
 }
 #xfdisplay-dashboard .dashboard > a > div > div:first-child  {
    padding-top: 35px;
